@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-08T03:56:52Z" name="Default suite" finished-at="2020-09-08T03:57:06Z" duration-ms="14086">
+    <groups>
+    </groups>
+    <test started-at="2020-09-08T03:56:52Z" name="Default test" finished-at="2020-09-08T03:57:06Z" duration-ms="14086">
+      <class name="testClassTNG.ActTCreaterCustomerAndLogout">
+        <test-method signature="CreateCustomer()[pri:0, instance:testClassTNG.ActTCreaterCustomerAndLogout@5ea434c8]" started-at="2020-09-08T03:56:52Z" name="CreateCustomer" finished-at="2020-09-08T03:57:06Z" duration-ms="14050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCustomer -->
+      </class> <!-- testClassTNG.ActTCreaterCustomerAndLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
